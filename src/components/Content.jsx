@@ -1,5 +1,4 @@
 import styles from "./Content.module.scss";
-import Techno from "./Techno";
 
 const Content = () => {
   return (
@@ -16,7 +15,6 @@ const Content = () => {
           <div className={styles.elem}>Element</div>
           <div className={styles.elem}>Element</div>
           <div className={styles.elem}>Element</div>
-          <Techno />
         </div>
       </div>
     </div>
