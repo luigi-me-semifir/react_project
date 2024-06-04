@@ -7,9 +7,9 @@ function Techno({ nom, image }) {
         <img src={image} alt={nom} />
       </div>
       <div
-        className={`${styles.technoTitle} d-flex flex-row justify-content-center align-items-center`}
+        className={`${styles.technoTitle} d-flex flex-column justify-content-center align-items-center`}
       >
-        <h3>{nom}</h3>
+        <h3 className="mb-10">{nom}</h3>
       </div>
     </div>
   );
