@@ -1,0 +1,69 @@
+{
+  "technos": [
+    {
+      "id": 1,
+      "nom": "React",
+      "image": "https://i.postimg.cc/V6032pPg/react.webp",
+      "like": true
+    },
+    {
+      "id": 2,
+      "nom": "JavaScriptAvancé",
+      "image": "https://i.postimg.cc/hGxg0xYf/js.webp",
+      "like": false
+    },
+    {
+      "id": 3,
+      "nom": "PHP",
+      "image": "https://i.postimg.cc/zfmY3vf5/php.webp",
+      "like": false
+    },
+    {
+      "id": 4,
+      "nom": "MySQL",
+      "image": "https://i.postimg.cc/rwRL8xMQ/sql.webp",
+      "like": false
+    },
+    {
+      "id": 5,
+      "nom": "MongoDB",
+      "image": "https://i.postimg.cc/rFmkP7b6/mongo.webp",
+      "like": false
+    },
+    {
+      "id": 6,
+      "nom": "Java",
+      "image": "https://i.postimg.cc/7hByLN5Q/java.webp",
+      "like": false
+    },
+    {
+      "id": 7,
+      "nom": "Angular",
+      "image": "https://i.postimg.cc/fLfNGsDs/Angular.webp",
+      "like": false
+    },
+    {
+      "id": 8,
+      "nom": "Docker",
+      "image": "https://i.postimg.cc/SQV4Vmg7/docker.webp",
+      "like": false
+    },
+    {
+      "id": 9,
+      "nom": "TypeScript",
+      "image": "https://i.postimg.cc/kGgkLtTN/ts.webp",
+      "like": false
+    },
+    {
+      "id": 10,
+      "nom": "Symphonie",
+      "image": "https://i.postimg.cc/QN6L10Mf/symphonie.webp",
+      "like": false
+    },
+    {
+      "nom": "fffeffeffe",
+      "image": "https://i.postimg.cc/rFmkP7b6/mongo.webp",
+      "id": "c6631040-ae32-412e-80b0-c8357193be0d"
+    }
+  ]
+}
